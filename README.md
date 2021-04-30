@@ -1,4 +1,5 @@
-Used Sources
+Used Resources:
+
 
 graphic:
 
@@ -14,3 +15,9 @@ https://www.youtube.com/watch?v=WaBej9wSNIE
 
 ganapataye
 https://freesound.org/people/ganapataye/sounds/390199/
+
+---
+Font:
+
+Nielson Caetano - Cooper Black Font
+https://www.cufonfonts.com/font/cooper-black
