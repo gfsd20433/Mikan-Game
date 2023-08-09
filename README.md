@@ -1,4 +1,4 @@
-Live at https://gfsd20433.github.io/Mikan-Game/
+Game site: https://gfsd20433.github.io/Mikan-Game/
 
 
 ---
